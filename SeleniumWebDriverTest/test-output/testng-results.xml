@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-02-19T06:21:08Z" name="Default suite" finished-at="2018-02-19T06:22:10Z" duration-ms="61877">
+    <groups>
+    </groups>
+    <test started-at="2018-02-19T06:21:08Z" name="Default test" finished-at="2018-02-19T06:22:10Z" duration-ms="61877">
+      <class name="SeleniumWebDriverTestSamples.DropdowninTestNG">
+        <test-method signature="selectDropDownValues()[pri:0, instance:SeleniumWebDriverTestSamples.DropdowninTestNG@932bc4a]" started-at="2018-02-18T22:21:08Z" name="selectDropDownValues" finished-at="2018-02-18T22:22:10Z" duration-ms="61841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectDropDownValues -->
+      </class> <!-- SeleniumWebDriverTestSamples.DropdowninTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
