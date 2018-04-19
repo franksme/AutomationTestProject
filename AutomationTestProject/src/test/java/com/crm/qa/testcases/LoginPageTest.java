@@ -19,7 +19,7 @@ public class LoginPageTest extends TestBase{
 	}
 	@BeforeMethod
 	public void setUp() {
-		initialiation();
+		initialization();
 		loginPage = new LoginPage();
 		
 	}
@@ -32,7 +32,7 @@ public class LoginPageTest extends TestBase{
 	@Test(priority=2)
 	public void crmLogoImageTest() {
 		boolean flag=loginPage.validateCRMImage();
-		Assert.assertTrue(flag);
+		Assert.assertTrue(flag); 
 	}
 	@Test(priority=3)
 	public void loginTest() {
